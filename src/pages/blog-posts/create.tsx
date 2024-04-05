@@ -25,7 +25,7 @@ export const BlogPostCreate = () => {
               list("blog_posts");
             }}
           >
-            List
+            List Change Something Here for git repository
           </button>
         </div>
       </div>
